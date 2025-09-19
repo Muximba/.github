@@ -1,11 +1,11 @@
-# 🧙‍♂️ Muximba — OT Server Global 13.x+
+# 🧙‍♂️ Muximba — OT Server Global 15.x+
 
 <p align="center">
   <img src="https://github.com/Muximba/Muximba/blob/main/banner.png?raw=true" style="width:50%;"/><br>
   <em>Banner original Muximba OT Server</em>
 </p>
 
-**Muximba** é um **OT Server Global** inspirado no Tibia, rodando em versão **13.x+**, com foco em **estabilidade, uptime e diversão de verdade**.  
+**Muximba** é um **OT Server Global** inspirado no Tibia, rodando em versão **15.x+**, com foco em **estabilidade, uptime e diversão de verdade**.  
 Nosso nome vem do Kimbundu e significa **"coração"** — e é isso que queremos ser para a comunidade: um lugar onde você se sente em casa.
 
 ---
