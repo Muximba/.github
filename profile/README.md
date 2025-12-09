@@ -1,4 +1,4 @@
-# 🧙‍♂️ Muximba — OT Server Global 15.x+
+# 🧙‍♂️ Muximba — OT Server Global 15.11
 
 <p align="center">
   <img src="https://github.com/Muximba/Muximba/blob/main/banner.png?raw=true" style="width:50%;"/><br>
@@ -17,21 +17,6 @@ Nosso nome vem do Kimbundu e significa **"coração"** — e é isso que queremo
 - 🎉 **Eventos Semanais** — bosses, raids e bônus de XP/loot.
 - 🛡 **Segurança e Uptime** — infraestrutura moderna e monitorada 24/7.
 - 🎨 **Visual Único** — identidade visual própria, cliente customizado e imersivo.
-
----
-
-## 🎮 Como jogar
-
-1. **Baixe o cliente**  
-   [🔗 Download do Client para Windows & Linux](https://muximba.dev/download)
-
-2. **Crie sua conta**  
-   [🔗 Registro rápido no site](https://muximba.dev/)
-
-3. **Conecte-se ao mundo**  
-   - IP: `server.muximba.dev`
-   - Porta: `7171`
-   - Versão: `13.x`
 
 ---
 
@@ -54,3 +39,4 @@ Nosso objetivo é criar um ambiente justo, estável e divertido, onde cada jogad
 
 > 🧙‍♂️ **Muximba — o server com coração.**  
 > Entre agora e faça parte desta aventura épica!
+> [muximba.dev](https://muximba.dev)
