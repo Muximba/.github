@@ -5,7 +5,7 @@
   <em>Banner original Muximba OT Server</em>
 </p>
 
-**Muximba** é um **OT Server Global** inspirado no Tibia, rodando em versão **15.x+**, com foco em **estabilidade, uptime e diversão de verdade**.  
+**Muximba** é um **OT Server Global** inspirado no Tibia, rodando em versão **15.11+**, com foco em **estabilidade, uptime e diversão de verdade**.  
 Nosso nome vem do Kimbundu e significa **"coração"** — e é isso que queremos ser para a comunidade: um lugar onde você se sente em casa.
 
 ---
@@ -22,9 +22,8 @@ Nosso nome vem do Kimbundu e significa **"coração"** — e é isso que queremo
 
 ## 🌐 Comunidade
 
-- 💬 **Discord:** [discord.gg/muximba](https://discord.gg/muximba)
-- 📰 **Reddit:** [r/Muximba](https://reddit.com/r/Muximba)
-- 📸 **Instagram:** [@muximba.gg](https://instagram.com/muximba.gg)
+- 💬 **Discord:** [discord.gg/muximba](https://discord.gg/S6VftTGZ3a)
+- 📰 **Whatsapp:** [Grupo]([https://reddit.com/r/Muximba](https://chat.whatsapp.com/KngYEM1irIrKfiaoPYHo0i))
 
 > Participe das discussões, envie sugestões e acompanhe os eventos.
 
@@ -40,3 +39,4 @@ Nosso objetivo é criar um ambiente justo, estável e divertido, onde cada jogad
 > 🧙‍♂️ **Muximba — o server com coração.**  
 > Entre agora e faça parte desta aventura épica!
 > [muximba.dev](https://muximba.dev)
+> [Download MTC](https://app.muximba.dev/?subtopic=downloadclient)
