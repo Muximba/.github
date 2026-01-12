@@ -24,6 +24,7 @@ Nosso nome vem do Kimbundu e significa **"coração"** — e é isso que queremo
 
 - 💬 **Discord:** [discord.gg/muximba](https://discord.gg/S6VftTGZ3a)
 - 📰 **Whatsapp:** [Grupo]([https://reddit.com/r/Muximba](https://chat.whatsapp.com/KngYEM1irIrKfiaoPYHo0i))
+- [Download MTC](https://app.muximba.dev/?subtopic=downloadclient)
 
 > Participe das discussões, envie sugestões e acompanhe os eventos.
 
@@ -39,4 +40,3 @@ Nosso objetivo é criar um ambiente justo, estável e divertido, onde cada jogad
 > 🧙‍♂️ **Muximba — o server com coração.**  
 > Entre agora e faça parte desta aventura épica!
 > [muximba.dev](https://muximba.dev)
-> [Download MTC](https://app.muximba.dev/?subtopic=downloadclient)
